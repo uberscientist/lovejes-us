@@ -1,0 +1,39 @@
+html, body {
+  background-color: #FFE6E6;
+  color: #444;
+  font-family: "Lobster", cursive;
+}
+
+h1 {
+  margin: 10px auto;
+  display: block;
+}
+
+#pagewrap {
+  background-color: #FFC9C9;
+  width: 555px;
+  height: 666px;
+  margin: 20px auto;
+  padding: 40px;
+  box-shadow: -10px 10px 10px #AAA;
+}
+
+#ad {
+  margin: 5px auto;
+  width: 728px;
+}
+
+#message {
+  left: 20px;
+  position: relative;
+}
+
+#message:hover {
+  cursor: pointer;
+}
+
+.letter {
+  font-size: 3em;
+  left: 30px;
+  position: relative;
+}
